@@ -7,8 +7,8 @@ My assignment in Writing 115 was to compare Ferguson with Baltimore.  I compared
 
 I wanted to find out the economics of the judicial system in relation to income inequality. The goal was to normalise the revenue and cost of the courts to the wealth of the population’s it serves.  An example is a $100 fine to a poor person could 15% of their monthly income while $10,000 is just daily expense for a rich person. This also translates to the ability to afford legal representation which effects the outcome.  In short wealth inequality creates judicial inequality.   “America has the best justice system money can buy”.
 
-Judicial revenue /  Capita.  Using dollars normalised to income of the population.  (1)  
-Ferguson	$148		Fines and penalties 
+Judicial revenue /  Capita.  Using dollars normalised to income of the population(1).  
+Ferguson	$148		Fines and penalties. 
 Baltimore	$52			Parking and red light cameras.  
 Hillsboro	$8 			too small.
 
