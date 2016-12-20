@@ -21,6 +21,8 @@ Excessive force by the police is the first level of judicial abuse created by we
 
 I received a D on the paper, but that paper started my interest public records data mining, not for personal data but for patterns.  Companies and government use data to maximize profits and control the people. It’s now time for the people to data-mine the government to find the inequalities and injustice.  
 
-My goal is to mathematically describe that money does legally create a opportunity bias and because of changes and feedback in the system, it will only get worse.   Starting in the 1970’s, communication and computerized logistics allowed companies to move manufacturing out of America for greater profit.  Staring in the 1990’s, companies started to import workers to reduce costs using H-1B visas. Now companies are replacing American workers by using machine learning and automation(3). 
+My goal is to mathematically describe that money does legally create a opportunity bias and because of changes and feedback in the system, it will only get worse.   Starting in the 1970’s, communication and computerized logistics allowed companies to move manufacturing out of America for greater profit.  Staring in the 1990’s, companies started to import workers to reduce costs using H-1B visas. Now companies are replacing all workers with machine learning and automation(3). 
+
+As the population on earth grows, better resource utilization is required to maintain that population. A more complex global system is required to maintain higher effeciency. More complex system more ways for it to break.     
 
 
