@@ -1,5 +1,5 @@
 # GovDataMine
-To data-mine goverenment and use machine learning to find inequality (system is rigged)
+To data-mine goverenment and use machine learning to find inequality.
 
 Data-mine local government.
 
@@ -20,8 +20,6 @@ It is clean from the data that the “justice” in America is not equal. Fergus
 Excessive force by the police is the first level of judicial abuse created by wealth inequality. It is more cost efficient the handle legal problems lower on the judicial chain. The police use fear and intimidation to control people cost less than going to court, just like plea bargain cost less than a trial. 
 
 I received a D on the paper, but that paper started my interest public records data mining, not for personal data but for patterns.  Companies and government use data to maximize profits and control the people. It’s now time for the people to data-mine the government to find the inequalities and injustice.  
-
-My goal is to mathematically describe that money does legally create a opportunity bias and because of changes and feedback in the system, it will only get worse.   Starting in the 1970’s, communication and computerized logistics allowed companies to move manufacturing out of America for greater profit.  Staring in the 1990’s, companies started to import workers to reduce costs using H-1B visas. Now companies are replacing all workers with machine learning and automation(3). 
 
 As the population on earth grows, better resource utilization is required to maintain that population. A more complex global system is required to maintain higher effeciency. More complex system more ways for it to break.     
 
